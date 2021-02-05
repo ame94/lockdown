@@ -1,0 +1,5 @@
+# Should the server start up in lockdown?
+onLockdown: false
+
+# use two-letter language code (eg.: "en", "se") to override detected regional language setting.
+forceLang: false

@@ -1,0 +1,9 @@
+name: Lockdown
+version: 1.0
+main: org.github.ame94.lockdown.PluginMain
+author: ame94
+commands:
+  lockdown:
+    description: Issue server-wide lockdown
+    permission: lockdown.admin
+    permission-message: §4You are not permitted to use this.

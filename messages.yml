@@ -1,0 +1,23 @@
+en:
+  KickReason: '&4The server has just entered lockdown.'
+  KickingPlayerDuringLockdown: '&4Kicking &f%player% &4during lockdown!'
+  PlayerJoinDenyReason: '&4The server is currently on lockdown. Please try again later.'
+  AdminIssuedLockdown: '&f%player% &4has just issued a server lockdown!'
+  AdminRemovedLockdown: '&f%player% &4has removed the lockdown.'
+  EnterLockdown: '&4The server has entered lockdown!'
+  LeaveLockdown: '&4The server has gone out of lockdown.'
+  LockdownAlreadyEnabled: '&4The server is currently in lockdown. To disable, issue &f/lockdown disable'
+  PlayerConnectionAttempt: '&e%player% &4has attempted to connect during lockdown.'
+  ServerNotOnLockdown: '&4The server is not currently on lockdown.'
+
+se:
+  KickReason: '&4Serven har just nu stängts ner.'
+  KickingPlayerDuringLockdown: 'Sparkar %player% medans nedstängning!'
+  PlayerJoinDenyReason: '&4Denna server har just nu stängts ner, Snälla försök igen senare.'
+  AdminIssuedLockdown: '&f%player% &4skapade problemet till en server nedstängning'
+  AdminRemovedLockdown: '&f%player% &4har fixat nedstängningen.'
+  EnterLockdown: '&4Serven har precis gått ner i stänging!'
+  LeaveLockdown: '&4Serven har precis återupplivats.'
+  LockdownAlreadyEnabled: '&4Servern är för närvarande i låsning. För att inaktivera, gör detta &f/lockdown disable'
+  PlayerConnectionAttempt: '&e%player% &4har försökt att återansluta under att återupplivas.'
+  ServerNotOnLockdown: '&4Serven är just nu inte nedstängd'
